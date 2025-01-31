@@ -143,7 +143,7 @@
     },
     {
       name: "Vanessa",
-      content: "I was curious because it Seemed so bad and so nationalistic, this American flag. But when I came here I thought there was no nation, more like a process. A mixture, a mess, an inferno. I thought it was contemporary and interesting and socially confusing. Europe is too bourgeouis, too civilized, and there is no language to communicate contemporary concepts without sounding pompous. Back in Italy, I happened to go on the internet one day, and I was catapulted into a chat room where I met all these people speaking American. I started to hang out nthere and I started to like this way of speaking: dry and bold and simple. And very mysterious as if they had no real life. I spent 24 hours a day in there, learning American from Colorado and Wisconsin and Arkansas, places I didn't even know. And then I started"
+      content: "I was curious because it Seemed so bad and so nationalistic, this American flag. But when I came here I thought there was no nation, more like a process. A mixture, a mess, an inferno. I thought it was contemporary and interesting and socially confusing. Europe is too bourgeouis, too civilized, and there is no language to communicate contemporary concepts without sounding pompous. Back in Italy, I happened to go on the internet one day, and I was catapulted into a chat room where I met all these people speaking American. I started to hang out nthere and I started to like this way of speaking: dry and bold and simple. And very mysterious as if they had no real life. I spent 24 hours a day in there, learning American from Colorado and Wisconsin and Arkansas, places I didn't even know."
     },
     {
       name: "Vanessa",

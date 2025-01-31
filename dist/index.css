@@ -1,11 +1,16 @@
 html {
     /* font-size: 16px; */
-    font-size: 25px;
+    font-size: 22px;
+}
+
+
+.them {
+    color: #444;
 }
 
 .me {
     color: #248bf5;
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 .imessage {
@@ -40,7 +45,8 @@ p.from-me {
     align-self: flex-end;
     /* background-color: #248bf5; */
     color: #248bf5;
-  /* color: #fff; */
+    border: 3px solid #248bf5;
+    /* color: #fff; */
 }
 
 p[class^="from-"] {
@@ -63,7 +69,8 @@ p.from-me ~ p.from-me:last-child {
 p.from-them {
     align-items: flex-start;
     /* background-color: #e5e5ea; */
-    color: #222;
+    color: #444;
+    border: 3px solid #444;
 }
 
 p[class^="from-"].emoji {
@@ -112,6 +119,7 @@ h1, h2 {
     padding-right: 2.375rem;
     padding-bottom: 1rem;
     font-size: 1.25rem;
+    color: #444;
 }
 
 h1 {
@@ -121,14 +129,14 @@ h1 {
 
 h2 {
   /* border-bottom: 1px solid #e5e5ea; */
-  color: #222;
+  /* color: #444; */
   font-weight: normal;
   margin-top: 0;
   padding-bottom: 1.5rem;
 }
 
 .comment {
-  color: #222;
+  color: #444;
   font-size: 1.25rem;
   line-height: 1.5;
   margin-bottom: 1.25rem;
