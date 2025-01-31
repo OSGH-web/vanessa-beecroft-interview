@@ -1,6 +1,5 @@
 import messageData from "./content/all_article_text.json";
 
-// test
 let imessageContainer = document.getElementById("imessage-container");
 function addMessageElement(message) {
   let messageElement = document.createElement("p");
